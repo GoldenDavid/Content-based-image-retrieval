@@ -5,8 +5,7 @@
 This project is carried out by 404-Noname members, including:
 - [nguyenanhtuan-19127614](https://github.com/nguyenanhtuan-19127614)
 - [Kimkhanh14](https://github.com/KimKhanh14)
-- [HuyVo] (https://github.com/GoldenDavid)
--
+- [GoldenDavid] (https://github.com/GoldenDavid)
 
 # License
 - Simple software for learning purposes
